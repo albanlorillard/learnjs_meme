@@ -1,0 +1,25 @@
+{
+
+  "name": "leanjs_meme",
+  "description": "TP Ajax JS et Local Storage en utilisant l'API GYPHY",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+
+    "start": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albanlorillard/learnjs_meme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albanlorillard/learnjs_meme/issues"
+  },
+  "homepage": "https://github.com/albanlorillard/learnjs_meme#readme"
+}
