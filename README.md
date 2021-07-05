@@ -3,11 +3,20 @@
 TP Ajax JS et Local Storage en utilisant l'API GYPHY
 
 ## Quick Start
+
+La solution est sur la branche MAIN,
+Déplace toi sur la branche "toComplete"
+
 ```
-    npm install
-    npm run start
+   git checkout toComplete
+   npm install
+   npm run start
 ```
 
+
+
+
+## ETAPE 3 changer le clé API
 1. Créer un compte sur https://developers.giphy.com/ pour optenir une clé API
 2. Bien sélectionner API et non SDK
 3. Copier coller l'API KEY dans une constante API_KEY dans le main.js
